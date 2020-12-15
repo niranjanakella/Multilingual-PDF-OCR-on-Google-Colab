@@ -14,3 +14,7 @@ So I developed an algorithm to convert scanned Hindi documents to text files for
 ```
 
 - Then refer the algorithm in this <a href='Hindi_OCR.ipynb'>Jupyter Notebook</a>
+
+## Further Usages
+
+pytesseract.image_to_string(x, lang = 'hin')
