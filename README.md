@@ -12,3 +12,5 @@ So I developed an algorithm to convert scanned Hindi documents to text files for
 !apt-get install poppler-utils
 !sudo apt-get install tesseract-ocr-hin
 ```
+
+- Then run the algorithm in this <a href='Hindi_OCR.ipynb'>Jupyter Notebook</a>
