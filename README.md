@@ -17,4 +17,15 @@ So I developed an algorithm to convert scanned Hindi documents to text files for
 
 ## Further Usages
 
-pytesseract.image_to_string(x, lang = 'hin')
+This algorithm can be used for a wider set of languages by installing the desired language model through the follwing command. 
+
+- Change the language from 'hin' to desired language from the language list <a herf = 'https://tesseract-ocr.github.io/tessdoc/Data-Files-in-different-versions.html'> Here</a>.
+```
+#Exambple for English
+!sudo apt-get install tesseract-ocr-eng
+```
+- Also change the "lang" parameter in the python code from 'hin' to desired language as follows,
+```
+#Example for English
+pytesseract.image_to_string(x, lang = 'eng')
+```
