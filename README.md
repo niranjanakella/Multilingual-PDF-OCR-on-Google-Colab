@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4415832.svg)](https://doi.org/10.5281/zenodo.4415832)
+
 # Multilingual-PDF-OCR-on-Google-Colab by Akella Niranjan
 Every day we tend to scan many hard copies for various purposes. So, one such application confronted me where the scanned literature was in an Indian language - "Hindi" where the script was in a .pdf file format and when copied to a word document couldn't be recognize, hence displaying ASCII values.
 
